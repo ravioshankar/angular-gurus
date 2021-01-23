@@ -20,3 +20,5 @@
     - Search node modules
     - Auto rename tag
     - Angular Snippets
+    - Nx Console
+    - 

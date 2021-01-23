@@ -1,26 +1,23 @@
 # Autodidactics-boost-angular
 VS code extension to help angular developer to get most popular extension under one group  
 
-![Chameleon](https://github.com/ravioshankar/autodidactic-boost-angular/blob/main/images/chameleon.png")
+![Chameleon](images/chameleon.png)
 
 Want to include your favorate Angular boost extention? Create an [issue](https://github.com/ravioshankar/autodidactic-boost-angular/issues).
 
 ## Your boost include following
 
-### Angular
+### Angular boost
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template): Editor services for Angular templates
 
 [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2): TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
 
-[angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher): Easily navigate to component's files in Angular project
-
 [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics): Launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette
 
-[Angular File Changer](https://marketplace.visualstudio.com/items?itemName=john-crowson.angular-file-changer): Easily navigate between typescript, template, style, and associated test files in your Angular project using the Mac Touch Bar.
-
+[Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console): Angular CLI with user interface 
 
 ---
-### Developer Experience Improvements
+### Developer Experience boost
 
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically rename paired HTML/XML tag, same as Visual Studio IDE does
 

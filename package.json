@@ -44,12 +44,11 @@
     "christian-kohler.path-intellisense",
     "EditorConfig.EditorConfig",
     "eg2.vscode-npm-script",
-    "infinity1207.angular2-switcher",
     "Mikael.Angular-BeastCode",
     "mrmlnc.vscode-scss",
     "stylelint.vscode-stylelint",
     "dannyconnell.split-html-attributes",
-    "john-crowson.angular-file-changer",
-    "johnpapa.Angular2"
+    "johnpapa.Angular2",
+    "nrwl.angular-console"
   ]
 }
