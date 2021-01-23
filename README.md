@@ -1,7 +1,7 @@
-# Autodidactics-boost-angular
-VS code extension to help angular developer to get most popular extension under one group  
+# Webgurus-angular
+VS code extension to help angular developer to get most popular extension under one unbrella  
 
-![Chameleon](https://github.com/ravioshankar/autodidactics-boost-angular/blob/main/images/chameleon.png)
+![Chameleon](images/chameleon.png)
 
 Want to include your favorate Angular boost extention? Create an [issue](https://github.com/ravioshankar/autodidactic-boost-angular/issues).
 

@@ -1,13 +1,13 @@
 {
-  "name": "autodidactics-boost-angular",
-  "displayName": "Autodidactics Boost Angular",
+  "name": "webgurus-angular",
+  "displayName": "Webgurus-Angular",
   "version": "1.0.0",
   "description": "VS Code extentions collection to boost Angular developers",
   "publisher": "ravioshankar",
   "icon": "images/chameleon.png",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravioshankar/autodidactic-boost-angular.git"
+    "url": "git+https://github.com/ravioshankar/webgurus-angular.git"
   },
   "keywords": [
     "Angular"
@@ -15,9 +15,9 @@
   "author": "ravioshankar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ravioshankar/autodidactic-boost-angular/issues"
+    "url": "https://github.com/ravioshankar/webgurus-angular/issues"
   },
-  "homepage": "https://github.com/ravioshankar/autodidactic-boost-angular#readme",
+  "homepage": "https://github.com/ravioshankar/webgurus-angular#readme",
   "engines": {
     "vscode": "^1.26.0"
   },
