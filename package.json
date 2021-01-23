@@ -1,0 +1,55 @@
+{
+  "name": "autodidactic-boost-angular",
+  "displayName": "Autodidactic Boost Angular",
+  "version": "1.0.0",
+  "description": "VS Code extentions collection to boost Angular autodidact",
+  "publisher": "ravioshankar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravioshankar/autodidactic-boost-angular.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "ravioshankar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravioshankar/autodidactic-boost-angular/issues"
+  },
+  "homepage": "https://github.com/ravioshankar/autodidactic-boost-angular#readme",
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.code-runner",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "ibm.output-colorizer",
+    "jasonnutter.search-node-modules",
+    "knisterpeter.vscode-commitizen",
+    "ms-vsliveshare.vsliveshare",
+    "P-de-Jong.vscode-html-scss",
+    "pranaygp.vscode-css-peek",
+    "rebornix.project-snippets",
+    "robertohuertasm.vscode-icons",
+    "spikespaz.vscode-smoothtype",
+    "cyrilletuzi.angular-schematics",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "EditorConfig.EditorConfig",
+    "eg2.vscode-npm-script",
+    "infinity1207.angular2-switcher",
+    "Mikael.Angular-BeastCode",
+    "mrmlnc.vscode-scss",
+    "stylelint.vscode-stylelint",
+    "dannyconnell.split-html-attributes",
+    "john-crowson.angular-file-changer",
+    "johnpapa.Angular2"
+  ]
+}

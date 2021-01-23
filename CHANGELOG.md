@@ -1,0 +1,22 @@
+## 1.0.0
+- Initial release includes following extentions 
+    - Bracket Pair Colorizer
+    - GitLens
+    - HTML SCSS Support
+    - npm Intellisense
+    - path Intellisense
+    - Ouput Colorizer
+    - Paste JSON as Code
+    - Prettier
+    - Project Snippets
+    - SCSS Intellisense
+    - Search node_modules
+    - SmoothType
+    - stylelint
+    - VS Live Share
+    - Code Runner
+    - Git Lense
+    - Better comments
+    - Search node modules
+    - Auto rename tag
+    - Angular Snippets
