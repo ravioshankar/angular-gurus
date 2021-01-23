@@ -21,4 +21,5 @@
     - Auto rename tag
     - Angular Snippets
     - Nx Console
-    - 
+    - VS Code Icons
+    

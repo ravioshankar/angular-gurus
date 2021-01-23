@@ -1,7 +1,7 @@
 # Autodidactics-boost-angular
 VS code extension to help angular developer to get most popular extension under one group  
 
-![Chameleon](images/chameleon.png)
+![Chameleon](https://github.com/ravioshankar/autodidactics-boost-angular/blob/main/images/chameleon.png)
 
 Want to include your favorate Angular boost extention? Create an [issue](https://github.com/ravioshankar/autodidactic-boost-angular/issues).
 
@@ -26,8 +26,6 @@ Want to include your favorate Angular boost extention? Create an [issue](https:/
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): A customizable extension for colorizing matching brackets
 
 [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition
-
-[EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig): EditorConfig Support for Visual Studio Code
 
 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 

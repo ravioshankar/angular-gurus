@@ -1,9 +1,10 @@
 {
-  "name": "autodidactic-boost-angular",
-  "displayName": "Autodidactic Boost Angular",
+  "name": "autodidactics-boost-angular",
+  "displayName": "Autodidactics Boost Angular",
   "version": "1.0.0",
-  "description": "VS Code extentions collection to boost Angular autodidact",
+  "description": "VS Code extentions collection to boost Angular developers",
   "publisher": "ravioshankar",
+  "icon": "images/chameleon.png",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ravioshankar/autodidactic-boost-angular.git"
@@ -42,7 +43,6 @@
     "cyrilletuzi.angular-schematics",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
-    "EditorConfig.EditorConfig",
     "eg2.vscode-npm-script",
     "Mikael.Angular-BeastCode",
     "mrmlnc.vscode-scss",
