@@ -1,13 +1,13 @@
 {
-  "name": "webgurus-angular",
-  "displayName": "Webgurus-Angular",
+  "name": "angular-gurus",
+  "displayName": "Angular Gurus",
   "version": "1.0.0",
   "description": "VS Code extentions collection to boost Angular developers",
   "publisher": "ravioshankar",
   "icon": "images/chameleon.png",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravioshankar/webgurus-angular.git"
+    "url": "git+https://github.com/ravioshankar/angular-gurus.git"
   },
   "keywords": [
     "Angular"
@@ -15,9 +15,9 @@
   "author": "ravioshankar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ravioshankar/webgurus-angular/issues"
+    "url": "https://github.com/ravioshankar/angular-gurus/issues"
   },
-  "homepage": "https://github.com/ravioshankar/webgurus-angular#readme",
+  "homepage": "https://github.com/ravioshankar/angular-gurus#readme",
   "engines": {
     "vscode": "^1.26.0"
   },
@@ -32,21 +32,15 @@
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
     "ibm.output-colorizer",
-    "jasonnutter.search-node-modules",
     "knisterpeter.vscode-commitizen",
     "ms-vsliveshare.vsliveshare",
     "P-de-Jong.vscode-html-scss",
-    "pranaygp.vscode-css-peek",
-    "rebornix.project-snippets",
     "robertohuertasm.vscode-icons",
-    "spikespaz.vscode-smoothtype",
     "cyrilletuzi.angular-schematics",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "eg2.vscode-npm-script",
-    "Mikael.Angular-BeastCode",
     "mrmlnc.vscode-scss",
-    "stylelint.vscode-stylelint",
     "dannyconnell.split-html-attributes",
     "johnpapa.Angular2",
     "nrwl.angular-console"
