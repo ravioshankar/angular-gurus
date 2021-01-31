@@ -1,13 +1,13 @@
 {
-  "name": "angular-gurus",
-  "displayName": "Angular Gurus",
-  "version": "1.0.0",
-  "description": "VS Code extentions collection to boost Angular developers",
+  "name": "webdeveloper-toolbox",
+  "displayName": "Web Developer Toolbox",
+  "version": "2.0.0",
+  "description": "VS Code extentions collection to boost Web developers",
   "publisher": "ravioshankar",
   "icon": "images/chameleon.png",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravioshankar/angular-gurus.git"
+    "url": "git+https://github.com/ravioshankar/webdeveloper-toolbox.git"
   },
   "keywords": [
     "Angular"
@@ -15,9 +15,9 @@
   "author": "ravioshankar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ravioshankar/angular-gurus/issues"
+    "url": "https://github.com/ravioshankar/webdeveloper-toolbox/issues"
   },
-  "homepage": "https://github.com/ravioshankar/angular-gurus#readme",
+  "homepage": "https://github.com/ravioshankar/webdeveloper-toolbox#readme",
   "engines": {
     "vscode": "^1.26.0"
   },
@@ -43,6 +43,18 @@
     "mrmlnc.vscode-scss",
     "dannyconnell.split-html-attributes",
     "johnpapa.Angular2",
-    "nrwl.angular-console"
+    "nrwl.angular-console",
+    "octref.vetur",
+    "msjsdiag.vscode-react-native",
+    "msjsdiag.debugger-for-chrome",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "ms-edgedevtools.network-edge-devtools",
+    "NativeScript.nativescript",
+    "ms-vscode.js-debug",
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    "ms-vscode.node-debug2",
+    "denoland.vscode-deno",
+    "firefox-devtools.vscode-firefox-debug"
   ]
 }
